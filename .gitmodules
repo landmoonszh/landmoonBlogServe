@@ -1,0 +1,3 @@
+[submodule "src/landmoonLibCommon"]
+	path = src/landmoonLibCommon
+	url = https://github.com/landmoonszh/landmoonLibCommon.git
